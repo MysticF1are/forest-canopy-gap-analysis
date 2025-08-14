@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as follows."
+title: "Forest Canopy Gap Analysis"
+version: "0.1.0"
+date-released: 2025-08-14
+authors:
+  - family-names: Li
+    given-names: Zhaohao
+repository-code: "https://github.com/MysticF1are/forest-canopy-gap-analysis"
+url: "https://github.com/MysticF1are/forest-canopy-gap-analysis"
+license: "GPL-3.0-or-later"
+preferred-citation:
+  type: software
+  title: "Forest Canopy Gap Analysis"
+  authors:
+    - family-names: Li
+      given-names: Zhaohao
+  year: 2025
+  version: "0.1.0"
+  url: "https://github.com/MysticF1are/forest-canopy-gap-analysis/releases/tag/v0.1.0"
