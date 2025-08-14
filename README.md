@@ -41,7 +41,7 @@ output_dir = run_analysis("data.las", use_solar=True, use_parallel=True)
 
 ## Documentation
 
-See [USER_GUIDE_EN.md](USER_GUIDE_EN.md) for complete documentation.
+See [USER_GUIDE.md](USER_GUIDE.md) for complete documentation.
 
 ## License
 
